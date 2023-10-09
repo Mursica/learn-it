@@ -1,0 +1,21 @@
+html{
+    background-color: whitesmoke;
+}
+
+.buttonman {
+    color: black;
+    background-color: tomato;
+    border-radius: 60px;
+    width: 100px;
+    height: 40px;
+    margin-left: 150px;
+}
+
+.main-button{
+    color: aqua;
+    background-color: black;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    margin-left: 150px;
+}
